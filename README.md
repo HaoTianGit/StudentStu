@@ -35,6 +35,11 @@ Using student ID 11 to change his address, we could use GET method for this ID t
 
 ![Capture](https://user-images.githubusercontent.com/34337950/87841221-eef91500-c8f7-11ea-9817-3166126ebb70.PNG)
 
+## Adds an address for student by using id of this student
+
+![image](https://user-images.githubusercontent.com/34337950/87842472-d3ded300-c900-11ea-81fe-d58829890405.png)
+
+
 ![Capture](https://user-images.githubusercontent.com/34337950/87841261-3da6af00-c8f8-11ea-8a47-18e276f0fc77.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/34337950/87841300-89595880-c8f8-11ea-993b-26b18e1789fe.PNG)
