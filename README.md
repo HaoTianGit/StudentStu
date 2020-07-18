@@ -28,6 +28,20 @@
 
 ![Capture](https://user-images.githubusercontent.com/34337950/87774878-4c9a4c80-c879-11ea-8749-c9775293037a.PNG)
 
+## Create an API method that changes the address of a student using his/her StudentId.
+
+
+Using student ID 11 to change his address, we could use GET method for this ID to verify this method, this method is working properly. 
+
+![Capture](https://user-images.githubusercontent.com/34337950/87841221-eef91500-c8f7-11ea-9817-3166126ebb70.PNG)
+
+![Capture](https://user-images.githubusercontent.com/34337950/87841261-3da6af00-c8f8-11ea-8a47-18e276f0fc77.PNG)
+
+![Capture](https://user-images.githubusercontent.com/34337950/87841300-89595880-c8f8-11ea-993b-26b18e1789fe.PNG)
+
+
+
+
 
 
 
